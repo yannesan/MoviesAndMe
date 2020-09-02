@@ -13,3 +13,5 @@ Notions utilisées et apprises :
 - Props
 - JSX
 - FlexBox
+- TouchableOpacity
+- FlatList

@@ -9,7 +9,6 @@ Notions utilisées et apprises :
 - React Native
 - Render
 - SetState
-- Navigation
 - Props
 - JSX
 - FlexBox
